@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view >
+  <van-button>aa</van-button>
+</view>
